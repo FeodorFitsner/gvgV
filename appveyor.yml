@@ -15,4 +15,4 @@ test_script:
   - npm --version
   # run tests
   - npm test
-    # run destoys Server a
+    # run destoys Server aa
