@@ -9,7 +9,7 @@ install:
   - npm test
    
 # Post-install test scripts.    
-test_script:   
+test_script:    
   # Output useful info for debugging.
   - node --version 
   - npm --version 
